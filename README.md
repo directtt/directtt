@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @directtt
 - 👀 I’m interested in Data Science & Statistics
 - 🌱 I’m currently developing my programming skills.
+- 🎓 I'm studying Computer Science and Mathematics.
 - 💞️ I’m looking to collaborate on some internships.
 
 <!---
