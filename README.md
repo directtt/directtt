@@ -1,8 +1,7 @@
-<!-- - 👋 Hi, I’m @directtt
-- 👀 I’m interested in Data Science & Statistics
-- 🌱 I’m currently developing my programming skills
-- 🎓 I'm studying Computer Science and Mathematics
-- 💞️ I’m looking to collaborate on some internships -->
+ - 👋 Hi, I’m @directtt
+- 👀 I’m interested in Data Science, AI, Python programming
+- 🎓 I'm currently studying BE Computer Science & graduated from BSc Mathematics
+- 👨‍💻 I’m currently working as Intern Data Scientist at @Capgemini in Poznań, Poland
 
 <!---
 directtt/directtt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
